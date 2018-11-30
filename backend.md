@@ -12,11 +12,11 @@
 			<h2>Seriously, what the fuck else do you want?</h2>
 		<p>You probably build websites and think your shit is special. You think your 13 megabyte parallax-ative home page is going to get you some fucking Awwward banner you can glue to the top corner of your site. You think your 40-pound jQuery file and 83 polyfills give IE7 a boner because it finally has box-shadow. Wrong, motherfucker. Let me describe your perfect-ass website:</p>
 		<ul>
-			<il>Shit's lightweight and loads fast</il>
-			<il>Fits on all your shitty screens</il>
-			<il>Looks the same in all your shitty browsers</il>
-			<il>The motherfucker's accessible to every asshole that visits your site</il>
-			<il>Shit's legible and gets your fucking point across (if you had one instead of just 5mb pics of hipsters drinking coffee)</il>
+			<li>Shit's lightweight and loads fast</li>
+			<li>Fits on all your shitty screens</li>
+			<li>Looks the same in all your shitty browsers</li>
+			<li>The motherfucker's accessible to every asshole that visits your site</li>
+			<li>Shit's legible and gets your fucking point across (if you had one instead of just 5mb pics of hipsters drinking coffee)</li>
 		</ul>
 			<h3>Well guess what, motherfucker:</h3>
 		<p>You. Are. Over-designing. Look at this shit. It's a motherfucking website. Why the fuck do you need to animate a fucking trendy-ass banner flag when I hover over that useless piece of shit? You spent hours on it and added 80 kilobytes to your fucking site, and some motherfucker jabbing at it on their iPad with fat sausage fingers will never see that shit. Not to mention blind people will never see that shit, but they don't see any of your shitty shit.</p>
@@ -33,9 +33,11 @@
 		<p>Like the man who's never grown out his beard has no idea what his true natural state is, you have no fucking idea what a website is. All you have ever seen are shitty skeuomorphic bastardizations of what should be text communicating a fucking message. This is a real, naked website. Look at it. It's fucking beautiful</p>
 			<h3>Yes, this is fucking satire, you fuck</h3>
 		<p>I'm not actually saying your shitty site should look like this. What I'm saying is that all the problems we have with websites are ones we create ourselves. Websites aren't broken by default, they are functional, high-performing, and accessible. You break them. You son-of-a-bitch.</p>
-		<blockquote cite="https://www.vitsoe.com/us/about/good-design">"Good design is as little design as possible."</blockquote>
-		<br>
-		-"some german motherfucker"
+		<blockquote cite="https://www.vitsoe.com/us/about/good-design">
+			<p>"Good design is as little design as possible."</p>
+		</blockquote>
+			<cite> -"some german motherfucker"</cite>
+		</blockquote>
 		<hr>
 		<h2>Epilogue</h2>
 		<p>From the philosophies expressed (poorly) above, <a href="http://txti.es">txti</a> was created. You should try it today to make your own motherfucking websites.</p>
